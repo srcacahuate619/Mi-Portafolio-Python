@@ -10,7 +10,7 @@
 
 ### 📄 Documentación Técnica
 Puedes leer el White Paper completo con la justificación fisiológica y técnica aquí:
-- 📕 [Ver White Paper en PDF](ARQUITECTURA%20HÍBRIDA%20PASIVA%20PARA%20EL%20MANEJO%20DE%20LA%20DIABETES.pdf)
+- 📕 Publicación Oficial en Zenodo (DOI): [https://zenodo.org/records/18668319]
 
 ### 💡 El Problema
 Las bombas de insulina actuales dependen de baterías internas y almacenan insulina activa. Si el hardware falla, el paciente corre riesgo de una sobredosis letal. Además, son vulnerables a ciberataques remotos.
