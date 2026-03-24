@@ -12,11 +12,7 @@ Este proyecto propone una **arquitectura híbrida pasiva**. En lugar de inyectar
 ## 💻 Contenido del Repositorio
 Este repositorio contiene los scripts en **Python** desarrollados como prueba de concepto computacional y modelado matemático para respaldar la viabilidad teórica de la investigación.
 
-* `modelos_cineticos/`: Scripts para simular la tasa de conversión enzimática de proinsulina a insulina.
 * `simulacion_nfc/`: Modelado de la inducción electromagnética pasiva y cálculo de miliamperios requeridos para la activación del implante.
-* `analisis_datos/`: Herramientas utilizadas para procesar las gráficas y datos presentados en el preprint.
-
-*(Nota: Ajusta los nombres de las carpetas/archivos de arriba según lo que tengas exactamente en tu repositorio).*
 
 ## 🏗️ Arquitectura del Sistema
 El modelo se divide en tres capas fundamentales:
